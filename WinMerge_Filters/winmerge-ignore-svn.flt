@@ -1,5 +1,6 @@
 ## Filtre pour ignorer SVN (et CVS) lors d'un diff WINMERGE
 name: Ignorer SVN
+desc: Filtre pour ignorer les fichiers et dossiers SVN
 
 ## Filtre à appliquer : inclure tout
 def: include
